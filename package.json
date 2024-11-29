@@ -59,7 +59,7 @@
   },
   "dependencies": {
     "@astrojs/svelte": "^4.0.4",
-    "@astrojs/tailwind": "^5.0.2",
+    "@astrojs/tailwind": "^5.1.0",
     "astro": "3.6.4",
     "csv": "^6.3.10",
     "flowbite": "^2.1.1",
